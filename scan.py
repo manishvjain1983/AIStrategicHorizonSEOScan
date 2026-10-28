@@ -59,7 +59,7 @@ def path_of(url):
 def page_facts(url):
     r = fetch(url, follow=True)
     if r is None:
-        return {"url": url, "status": "ERR"}
+        return {"url": url, "path": path_of(url), "status": "ERR"}
     facts = {
         "url": url,
         "path": path_of(url),
