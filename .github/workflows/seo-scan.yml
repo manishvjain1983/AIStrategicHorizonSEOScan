@@ -1,0 +1,33 @@
+name: SEO scan
+
+on:
+  schedule:
+    # Wednesday and Saturday, 11:00 UTC (7:00 AM Toronto in summer, 6:00 AM in winter)
+    - cron: "0 11 * * 3,6"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run scan
+        env:
+          GSC_SA_KEY: ${{ secrets.GSC_SA_KEY }}
+          GSC_SITE: ${{ vars.GSC_SITE }}
+        run: python scan.py
+      - name: Commit results
+        run: |
+          git config user.name "seo-scan-bot"
+          git config user.email "seo-scan-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "SEO scan $(date -u +%F)"
+          git push
