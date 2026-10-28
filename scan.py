@@ -139,10 +139,13 @@ def crawl():
     llms = fetch(f"{BASE}/llms.txt")
 
     clean_pages = [f for u, f in pages.items() if not u.endswith(".html")]
+    noindex_pages = sorted(f["path"] for f in clean_pages if f.get("noindex"))
+    clean_pages = [f for f in clean_pages if not f.get("noindex")]
     summary = {
         "date": TODAY,
         "sitemap_count": len(sitemap_urls),
         "pages_crawled": len(pages),
+        "noindex_pages": noindex_pages,
         "broken": [f["url"] for f in pages.values() if f.get("status") != 200],
         "not_in_sitemap": sorted(f["url"] for f in clean_pages if not f.get("in_sitemap") and f.get("status") == 200),
         "thin_pages": sorted(f["path"] for f in clean_pages if f.get("thin")),
@@ -247,6 +250,7 @@ def write_markdown(c, g):
     lines = [f"# SEO scan data, {TODAY}", ""]
     lines += ["## Crawl", f"- Sitemap URLs: {s['sitemap_count']}; pages crawled: {s['pages_crawled']}",
               f"- Broken: {s['broken'] or 'none'}",
+              f"- Pages marked noindex (excluded from checks below): {s['noindex_pages'] or 'none'}",
               f"- Live pages missing from sitemap: {s['not_in_sitemap'] or 'none'}",
               f"- Thin raw HTML (<{THIN_WORDS} words): {s['thin_pages'] or 'none'}",
               f"- Pages without H1: {s['no_h1'] or 'none'}",
