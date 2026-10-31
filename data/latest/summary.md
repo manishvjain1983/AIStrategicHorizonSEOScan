@@ -1,4 +1,4 @@
-# SEO scan data, 2026-10-28
+# SEO scan data, 2026-10-31
 
 ## Crawl
 - Sitemap URLs: 36; pages crawled: 45
@@ -15,7 +15,7 @@
 - llms.txt present: False
 
 ## Search Console
-- Property: https://ai.strategichorizon.net/; period: 2026-09-28 to 2026-10-25
+- Property: https://ai.strategichorizon.net/; period: 2026-10-01 to 2026-10-28
 - Clicks: 0; impressions: 2
 - Indexed (of 36 inspected): 0
 - Coverage states: {'Crawled - currently not indexed': 11, 'URL is unknown to Google': 25}

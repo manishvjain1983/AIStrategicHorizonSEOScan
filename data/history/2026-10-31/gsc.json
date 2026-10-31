@@ -1,0 +1,484 @@
+{
+  "site": "https://ai.strategichorizon.net/",
+  "visible_sites": [
+    "https://ai.strategichorizon.net/"
+  ],
+  "period": "2026-10-01 to 2026-10-28",
+  "totals": {
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  "top_queries": [],
+  "top_pages": [
+    {
+      "keys": [
+        "https://ai.strategichorizon.net/articles.html"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "quick_wins": [],
+  "sitemaps": [
+    {
+      "path": "https://ai.strategichorizon.net/sitemap.xml",
+      "lastSubmitted": "2026-10-28T19:36:17.888Z",
+      "isPending": false,
+      "isSitemapsIndex": false,
+      "type": "sitemap",
+      "lastDownloaded": "2026-10-28T19:36:19.060Z",
+      "warnings": "0",
+      "errors": "0",
+      "contents": [
+        {
+          "type": "web",
+          "submitted": "36",
+          "indexed": "0"
+        }
+      ]
+    }
+  ],
+  "inspection_counts": {
+    "Crawled - currently not indexed": 11,
+    "URL is unknown to Google": 25
+  },
+  "indexed_count": 0,
+  "inspections": [
+    {
+      "url": "https://ai.strategichorizon.net/",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-09-12T03:57:58Z",
+      "google_canonical": "https://ai.strategichorizon.net/",
+      "user_canonical": "https://ai.strategichorizon.net/",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/about",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-10-28T20:37:29Z",
+      "google_canonical": "https://ai.strategichorizon.net/about",
+      "user_canonical": "https://ai.strategichorizon.net/about",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/ai-governance",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-10-28T20:35:35Z",
+      "google_canonical": "https://ai.strategichorizon.net/ai-governance",
+      "user_canonical": "https://ai.strategichorizon.net/ai-governance",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/ai-briefings",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/assessaiq",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/ai-strategy-execution",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-10-28T20:35:35Z",
+      "google_canonical": "https://ai.strategichorizon.net/ai-strategy-execution",
+      "user_canonical": "https://ai.strategichorizon.net/ai-strategy-execution",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/ai-tokenomics",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-10-28T20:36:29Z",
+      "google_canonical": "https://ai.strategichorizon.net/ai-tokenomics",
+      "user_canonical": "https://ai.strategichorizon.net/ai-tokenomics",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/aixplainer",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/analyst-notes",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/articles",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/blueprints",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/caio100",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/citation-policy",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/contact",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/cxo-registration",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/fwa-value",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-10-28T20:35:35Z",
+      "google_canonical": "https://ai.strategichorizon.net/fwa-value",
+      "user_canonical": "https://ai.strategichorizon.net/fwa-value",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/fwb-investment",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-10-28T20:37:08Z",
+      "google_canonical": "https://ai.strategichorizon.net/fwb-investment",
+      "user_canonical": "https://ai.strategichorizon.net/fwb-investment",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/horizon-exchange",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-10-28T20:37:30Z",
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/human-ai-operating-model",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-10-28T20:37:38Z",
+      "google_canonical": "https://ai.strategichorizon.net/human-ai-operating-model",
+      "user_canonical": "https://ai.strategichorizon.net/human-ai-operating-model",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/independent-experts",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/membership",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/pov",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/pov-ai-economy",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/pov-board",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/pov-fde",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/pov-gemini",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/privacy-policy",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-08-30T06:56:51Z",
+      "google_canonical": "https://ai.strategichorizon.net/privacy-policy",
+      "user_canonical": "https://ai.strategichorizon.net/privacy-policy",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/research-methodology",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/services",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/terms-and-conditions",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/terms-of-use",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/tools",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/value-chain",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/survey",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/value-gap-diagnostic",
+      "verdict": "NEUTRAL",
+      "coverage": "Crawled - currently not indexed",
+      "last_crawl": "2026-10-28T20:36:54Z",
+      "google_canonical": "https://ai.strategichorizon.net/value-gap-diagnostic",
+      "user_canonical": "https://ai.strategichorizon.net/value-gap-diagnostic",
+      "sitemaps": [],
+      "page_fetch": "SUCCESSFUL",
+      "robots": "ALLOWED",
+      "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/ai-model-insights",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    }
+  ]
+}
