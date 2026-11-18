@@ -3,7 +3,7 @@
   "visible_sites": [
     "https://ai.strategichorizon.net/"
   ],
-  "period": "2026-10-15 to 2026-11-11",
+  "period": "2026-10-19 to 2026-11-15",
   "totals": {
     "clicks": 0,
     "impressions": 2,
@@ -26,17 +26,17 @@
   "sitemaps": [
     {
       "path": "https://ai.strategichorizon.net/sitemap.xml",
-      "lastSubmitted": "2026-11-12T21:36:34.946Z",
+      "lastSubmitted": "2026-11-17T17:03:39.583Z",
       "isPending": false,
       "isSitemapsIndex": false,
       "type": "sitemap",
-      "lastDownloaded": "2026-11-12T21:36:36.325Z",
+      "lastDownloaded": "2026-11-17T17:03:40.735Z",
       "warnings": "0",
       "errors": "0",
       "contents": [
         {
           "type": "web",
-          "submitted": "40",
+          "submitted": "44",
           "indexed": "0"
         }
       ]
@@ -44,7 +44,7 @@
   ],
   "inspection_counts": {
     "Crawled - currently not indexed": 15,
-    "URL is unknown to Google": 25
+    "URL is unknown to Google": 29
   },
   "indexed_count": 0,
   "inspections": [
@@ -274,6 +274,54 @@
       "sitemaps": [],
       "page_fetch": "SUCCESSFUL",
       "robots": "ALLOWED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/horizon-exchange-anthrifly",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/horizon-exchange-caliperlab",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/horizon-exchange-llmpolicyhub",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/horizon-exchange-updrav",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
       "indexing": "INDEXING_STATE_UNSPECIFIED"
     },
     {
