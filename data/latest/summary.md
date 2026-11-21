@@ -1,7 +1,7 @@
-# SEO scan data, 2026-11-18
+# SEO scan data, 2026-11-21
 
 ## Crawl
-- Sitemap URLs: 44; pages crawled: 53
+- Sitemap URLs: 47; pages crawled: 56
 - Broken: ['https://ai.strategichorizon.net/api/file']
 - Pages marked noindex (excluded from checks below): ['/caio_100day_kanban', '/compare-models', '/login', '/model-changes', '/model-cost-calculator', '/model-finder', '/modelinsights', '/retiring-models']
 - Live pages missing from sitemap: none
@@ -15,10 +15,10 @@
 - llms.txt present: True
 
 ## Search Console
-- Property: https://ai.strategichorizon.net/; period: 2026-10-19 to 2026-11-15
-- Clicks: 0; impressions: 2
-- Indexed (of 44 inspected): 0
-- Coverage states: {'Crawled - currently not indexed': 15, 'URL is unknown to Google': 29}
+- Property: https://ai.strategichorizon.net/; period: 2026-10-22 to 2026-11-18
+- Clicks: 0; impressions: 0
+- Indexed (of 47 inspected): 0
+- Coverage states: {'Crawled - currently not indexed': 15, 'URL is unknown to Google': 32}
 - Sitemaps: [('https://ai.strategichorizon.net/sitemap.xml', '2026-11-17T17:03:40.735Z', '0')]
 
 ### Quick wins (position 8 to 20)

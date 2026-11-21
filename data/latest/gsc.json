@@ -3,25 +3,15 @@
   "visible_sites": [
     "https://ai.strategichorizon.net/"
   ],
-  "period": "2026-10-19 to 2026-11-15",
+  "period": "2026-10-22 to 2026-11-18",
   "totals": {
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 0,
     "ctr": 0,
-    "position": 1
+    "position": 0
   },
   "top_queries": [],
-  "top_pages": [
-    {
-      "keys": [
-        "https://ai.strategichorizon.net/articles.html"
-      ],
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 1
-    }
-  ],
+  "top_pages": [],
   "quick_wins": [],
   "sitemaps": [
     {
@@ -44,7 +34,7 @@
   ],
   "inspection_counts": {
     "Crawled - currently not indexed": 15,
-    "URL is unknown to Google": 29
+    "URL is unknown to Google": 32
   },
   "indexed_count": 0,
   "inspections": [
@@ -109,6 +99,18 @@
       "indexing": "INDEXING_ALLOWED"
     },
     {
+      "url": "https://ai.strategichorizon.net/ai-journey-flow",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
       "url": "https://ai.strategichorizon.net/ai-model-insights",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
@@ -131,6 +133,18 @@
       "page_fetch": "SUCCESSFUL",
       "robots": "ALLOWED",
       "indexing": "INDEXING_ALLOWED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/ai-strategy-review",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
     },
     {
       "url": "https://ai.strategichorizon.net/ai-tokenomics",
@@ -170,6 +184,18 @@
     },
     {
       "url": "https://ai.strategichorizon.net/assessaiq",
+      "verdict": "NEUTRAL",
+      "coverage": "URL is unknown to Google",
+      "last_crawl": null,
+      "google_canonical": null,
+      "user_canonical": null,
+      "sitemaps": [],
+      "page_fetch": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexing": "INDEXING_STATE_UNSPECIFIED"
+    },
+    {
+      "url": "https://ai.strategichorizon.net/assessments",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "last_crawl": null,
